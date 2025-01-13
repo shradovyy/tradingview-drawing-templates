@@ -1,4 +1,4 @@
-# tradingview-drawing-templates
+# Copy Tradingview Drawing Templates
 Download Tradingview Drawing Templates of the user
 
 # How to Use
